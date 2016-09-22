@@ -30,7 +30,11 @@ This document is Wechat's Cracked IDE
 <li>Mac 版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=darwin">点我下载</a></li>
 </ul></li>
 <li>打开0.7版本开发工具，通过微信扫描二维码，登录后关闭开发工具（不要退出微信登录的账号）</li>
-<li>然后安装0.9版本的</li>
+<li>然后安装0.9版本的开发工具
+<ul>
+<li>百度: <a href="https://pan.baidu.com/s/1pLTKIqJ">https://pan.baidu.com/s/1pLTKIqJ</a> （密码: iswg）</li>
+<li>360: <a href="https://yunpan.cn/ckvXjEbnFYMSC">https://yunpan.cn/ckvXjEbnFYMSC</a> （提取码：f9ca）</li>
+</ul></li>
 <li>打开『微信Web开发者工具』的程序目录
  
 <ul>
