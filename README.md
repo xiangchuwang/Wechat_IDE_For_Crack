@@ -29,7 +29,7 @@ This document is Wechat's Cracked IDE
 <li>Windows 32位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x86">点我下载</a></li>
 <li>Mac 版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=darwin">点我下载</a></li>
 </ul></li>
-<li>打开0.7版本开发工具，使用微信登录，登录后关闭开发工具（不要退出微信登录的账号）</li>
+<li>打开0.7版本开发工具，通过微信扫描二维码，登录后关闭开发工具（不要退出微信登录的账号）</li>
 <li>然后安装0.9版本的</li>
 <li>打开『微信Web开发者工具』的程序目录
  
