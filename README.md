@@ -23,14 +23,14 @@ This document is Wechat's Cracked IDE
 <p><strong><em>Mac测试可用，Windows测试可用</em></strong></p>
 
 <ol>
-<li>第一步：下载0.7版本开发工具，并安装.
+<li>下载0.7版本开发工具，并安装.
 <ul>
 <li>Windows 64位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x64">点我下载</a></li>
 <li>Windows 32位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x86">点我下载</a></li>
 <li>Mac 版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=darwin">点我下载</a></li>
 </ul></li>
-<li>第二步：打开0.7版本开发工具，使用微信登录，登录后关闭开发工具（不要退出微信登录的账号）</li>
-<li>第三步：然后安装0.9版本的</li>
+<li>打开0.7版本开发工具，使用微信登录，登录后关闭开发工具（不要退出微信登录的账号）</li>
+<li>然后安装0.9版本的</li>
 <li>打开『微信Web开发者工具』的程序目录
  
 <ul>
@@ -47,21 +47,10 @@ This document is Wechat's Cracked IDE
 <li>注意，这里微信工程师拼写错了，<strong><em>是stroes没错</em></strong>！！！</li>
 </ul></li>
 </ul></li>
-<li>第四步：打开0.9开发工具，参考使用教程。</li>
+<li>打开0.9开发工具，参考使用教程。</li>
 </ol>
 
-<h2><a id="user-content-扫码无法登录问题-please-bind-your-wechat-account-to-the-appid-first" class="anchor" href="#扫码无法登录问题-please-bind-your-wechat-account-to-the-appid-first" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>扫码无法登录问题 please bind your wechat account to the appid first</h2>
 
-<ol>
-<li>方法
-
-<ul>
-<li>请看上面的最新的破解教程</li>
-</ul></li>
-<li>
-
-</li>
-</ol>
 
 <h2><a id="user-content-使用教程" class="anchor" href="#使用教程" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>使用教程</h2>
 
@@ -111,7 +100,7 @@ This document is Wechat's Cracked IDE
 
 <ul>
 <li>问题原因：please bind your wechat account to the appid first</li>
-<li>解决方案：重启应用，多试几次扫码</li>
+<li>解决方案：重启应用，多试几次扫码 或者进入QQ群（40726600）</li>
 
 </ul></li>
 </ol>
