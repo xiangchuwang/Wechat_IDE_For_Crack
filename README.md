@@ -63,7 +63,7 @@ This document is Wechat's Cracked IDE
 <ul>
 <li>/Resources/app.nw/app/dist/components/create/createstep.js</li>
 <li>/Resources/app.nw/app/dist/stroes/projectStores.js</li>
-<li>/Resources/app.nw/app/dist/stroes/windowStores.js/li>
+<li>/Resources/app.nw/app/dist/stroes/windowStores.js</li>
 <li>/Resources/app.nw/app/dist/weapp/appservice/asdebug.js</li>
 </ul></li>
 </ul>
