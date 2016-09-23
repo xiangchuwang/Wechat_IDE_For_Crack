@@ -42,15 +42,26 @@ This document is Wechat's Cracked IDE
 <li>Mac：右键点击图标，选择『显示包内容』</li>
 </ul></li>
 <li>进入程序目录后，替换以下文件
+<ul>
+<li>Windows：
 
 <ul>
-<li>/package.nw/app/dist/components/create/createstep.js</li>
-<li>/package.nw/app/dist/stroes/projectStores.js
+<li>\package.nw\app\dist\components\create\createstep.js</li>
+<li>\package.nw\app\dist\stroes\projectStores.js</li>
+</ul></li>
+<li>Mac：
+
+<ul>
+<li>/Resources/app.nw/app/dist/components/create/createstep.js</li>
+<li>/Resources/app.nw/app/dist/stroes/projectStores.js</li>
+</ul></li>
+</ul>
+
 
 <ul>
 <li>注意，这里微信工程师拼写错了，<strong><em>是stroes没错</em></strong>！！！</li>
 </ul></li>
-</ul></li>
+
 <li>打开0.9开发工具，参考使用教程。</li>
 </ol>
 
