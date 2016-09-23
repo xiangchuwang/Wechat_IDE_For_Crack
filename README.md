@@ -98,7 +98,7 @@ This document is Wechat's Cracked IDE
 
 <ul>
 <li>问题原因：TypeError: Cannot read property 'MaxRequestConcurrent' of undefined</li>
-<li>解决方案：替换 /Resources/app.nw/app/dist/weapp/appservice/asdebug.js<br></li>
+<li>解决方案：替换 /package.nw/app/dist/weapp/appservice/asdebug.js<br></li>
 </ul></li>
 <li>扫码登录失败
 
