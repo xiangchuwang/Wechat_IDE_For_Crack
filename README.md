@@ -55,12 +55,16 @@ This document is Wechat's Cracked IDE
 <ul>
 <li>\package.nw\app\dist\components\create\createstep.js</li>
 <li>\package.nw\app\dist\stroes\projectStores.js</li>
+<li>\package.nw\app\dist\stroes\windowStores.js</li>
+<li>\package.nw\app\dist\weapp\appservice\asdebug.js</li>
 </ul></li>
 <li>Mac：
 
 <ul>
 <li>/Resources/app.nw/app/dist/components/create/createstep.js</li>
 <li>/Resources/app.nw/app/dist/stroes/projectStores.js</li>
+<li>/Resources/app.nw/app/dist/stroes/windowStores.js/li>
+<li>/Resources/app.nw/app/dist/weapp/appservice/asdebug.js</li>
 </ul></li>
 </ul>
 
@@ -124,7 +128,7 @@ Mac 替换 /Resources/app.nw/app/dist/weapp/appservice/asdebug.js
 
 <ul>
 <li>问题原因：please bind your wechat account to the appid first</li>
-<li>解决方案：重启应用，多试几次扫码 或者进入QQ群（40726600）</li>
+<li>解决方案：先使用0.7版本的进行扫码登陆，登陆成功后，再用0.9的版本打开就直接进入了</li>
 
 </ul></li>
 </ol>
